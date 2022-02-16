@@ -12,7 +12,7 @@ function onButton1Down(mouse)
 
         local char = plr.Character
 
-        char.HumanoidRootPart.Velocity = char.HumanoidRootPart.CFrame.lookVector * 250
+        char.HumanoidRootPart.Velocity = char.HumanoidRootPart.CFrame.lookVector * 180
 
         wait()
 
